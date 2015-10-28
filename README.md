@@ -5,7 +5,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 
 ### Table of contents
 
-####	Chapter 1 Data Structures and Algorithms
+#### Chapter 1 Data Structures and Algorithms
 *	Unpacking a Sequence into Separate Variables
 *	Unpacking Elements from Iterables of Arbitrary Length
 *	Keeping the Last N Items
@@ -26,6 +26,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Mapping Names to Sequence Elements
 *	Transforming and Reducing Data at the Same Time
 *	Combining Multiple Mappings into a Single Mapping
+
 ####	Chapter 2 Strings and Text
 *	Splitting Strings on Any of Multiple Delimiters
 *	Matching Text at the Start or End of a String
@@ -47,6 +48,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Tokenizing Text
 *	Writing a Simple Recursive Descent Parser
 *	Performing Text Operations on Byte Strings
+
 ####	Chapter 3 Numbers, Dates, and Times
 *	Rounding Numerical Values
 *	Performing Accurate Decimal Calculations
@@ -64,6 +66,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Finding the Date Range for the Current Month
 *	Converting Strings into Datetimes
 *	Manipulating Dates Involving Time Zones
+
 ####	Chapter 4 Iterators and Generators
 *	Manually Consuming an Iterator
 *	Delegating Iteration
@@ -81,6 +84,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Flattening a Nested Sequence
 *	Iterating in Sorted Order Over Merged Sorted Iterables
 *	Replacing Infinite while Loops with an Iterator
+
 ####	Chapter 5 Files and I/O
 *	Reading and Writing Text Data
 *	Printing to a File
@@ -103,6 +107,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Making Temporary Files and Directories
 *	Communicating with Serial Ports
 *	Serializing Python Objects
+
 ####	Chapter 6 Data Encoding and Processing
 *	Reading and Writing CSV Data
 *	Reading and Writing JSON Data
@@ -117,6 +122,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Reading and Writing Binary Arrays of Structures
 *	Reading Nested and Variable-Sized Binary Structures
 *	Summarizing Data and Performing Statistics
+
 ####	Chapter 7 Functions
 *	Writing Functions That Accept Any Number of Arguments
 *	Writing Functions That Only Accept Keyword Arguments
@@ -130,6 +136,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Carrying Extra State with Callback Functions
 *	Inlining Callback Functions
 *	Accessing Variables Defined Inside a Closure
+
 ####	Chapter 8 Classes and Objects
 *	Changing the String Representation of Instances
 *	Customizing String Formatting
@@ -156,6 +163,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Managing Memory in Cyclic Data Structures
 *	Making Classes Support Comparison Operations
 *	Creating Cached Instances
+
 ####	Chapter 9 Metaprogramming
 *	Putting a Wrapper Around a Function
 *	Preserving Function Metadata When Writing Decorators
@@ -182,6 +190,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Executing Code with Local Side Effects
 *	Parsing and Analyzing Python Source
 *	Disassembling Python Byte Code
+
 ####	Chapter 10 Modules and Packages
 *	Making a Hierarchical Package of Modules
 *	Controlling the Import of Everything
@@ -198,6 +207,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Installing Packages Just for Yourself
 *	Creating a New Python Environment
 *	Distributing Packages
+
 ####	Chapter 11 Network and Web Programming
 *	Interacting with HTTP Services As a Client
 *	Creating a TCP Server
@@ -212,6 +222,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Passing a Socket File Descriptor Between Processes
 *	Understanding Event-Driven I/O
 *	Sending and Receiving Large Arrays
+
 ####	Chapter 12 Concurrency
 *	Starting and Stopping Threads
 *	Determining If a Thread Has Started
@@ -227,6 +238,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Using Generators As an Alternative to Threads
 *	Polling Multiple Thread Queues
 *	Launching a Daemon Process on Unix
+
 ####	Chapter 13 Utility Scripting and System Administration
 *	Accepting Script Input via Redirection, Pipes, or Input Files
 *	Terminating a Program with an Error Message
@@ -243,6 +255,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Making a Stopwatch Timer
 *	Putting Limits on Memory and CPU Usage
 *	Launching a Web Browser
+
 ####	Chapter 14 Testing, Debugging, and Exceptions
 *	Testing Output Sent to stdout
 *	Patching Objects in Unit Tests
@@ -258,6 +271,7 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Debugging Basic Program Crashes
 *	Profiling and Timing Your Program
 *	Making Your Programs Run Faster
+
 ####	Chapter 15 C Extensions
 *	Accessing C Code Using ctypes
 *	Writing a Simple C Extension Module
@@ -280,9 +294,12 @@ Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp
 *	Reading File-Like Objects from C
 *	Consuming an Iterable from C
 *	Diagnosing Segmentation Faults
+
 ####	Appendix Further Reading
 *	Online Resources
 *	Books for Learning Python
 *	Advanced Books
+
 **Index**
-**Colophone**
+
+**Colophon**
